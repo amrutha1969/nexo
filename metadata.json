@@ -1,0 +1,7 @@
+{
+  "name": "NEXO – Smart AI Queue Planner",
+  "description": "Intelligent virtual queue system with AI-powered smart arrival engine to eliminate waiting lines.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
